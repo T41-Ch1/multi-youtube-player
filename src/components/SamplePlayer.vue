@@ -37,6 +37,6 @@ const getVideo = () => {
 };
 
 onMounted(() => {
-  getVideo;
+  getVideo();
 });
 </script>
